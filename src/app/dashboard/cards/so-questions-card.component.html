@@ -1,0 +1,28 @@
+<div class="panel panel-default">
+  
+    <div class="panel-heading text-center">
+      Stackoverflow search: "{{queryDefinition.term}}"
+    </div>
+  
+    <div class="list-group">
+      <li *ngFor="let item of items | async"
+          [ngClass]="{'list-group-item': true, 'list-group-item-success': (item.title && item.is_answered), 'list-group-item-warning': (item.title && !item.is_answered)}">
+  
+        <div>
+          <app-so-list-item [title]="item.title"
+                            [creationDate]="item.creation_date"
+                            [ownerLink]="item.owner.link"
+                            [ownerName]="item.owner.display_name"
+                            [answerCount]="item.answer_count"
+                            [questionLink]="item.link"
+                            [hasAcceptedAnswer]="item.is_answered"
+          >
+          </app-so-list-item>
+  
+        </div>
+  
+      </li>
+    </div>
+  
+  </div>
+  
