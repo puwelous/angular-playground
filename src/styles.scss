@@ -1,3 +1,74 @@
 /* You can add global styles to this file, and also import other style files */
-
 @import "assets/sass/styles.scss";
+
+$faMarginLeft: 5;
+
+.topbar {
+  left: $sidebar-width
+}
+
+.panel-default {
+  border: 1px solid transparent;
+  margin-bottom: 0px;
+}
+
+.list-group-item:hover {
+  background-color: rgba(49, 157, 181, 0.05);
+}
+
+.list-group-item-success:hover {
+  background-color: rgba(49, 157, 181, 0.05);
+}
+
+.list-group-item-warning {
+  border-color: darken($yellow, 5%);
+}
+
+.list-group-item-warning:hover {
+  background-color: rgba(249, 242, 207, 1);
+}
+
+.list-group-item-heading {
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.list-group-item-heading .date {
+  float: right;
+  font-size: 14px;
+  padding: 2px 0;
+}
+
+.list-unstyled .fa {
+  margin-right: #{$faMarginLeft}px;
+}
+
+.default-line-height {
+  line-height: 1
+}
+
+.list-group-item-text {
+  line-height: 23px;
+
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+}
+
+.inline {
+  display: inline-block;
+  line-height: 1;
+}
+
+.wrap {
+  display: table;
+}
+
+.wrap p {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+hr {
+  margin: 5px auto;
+}
