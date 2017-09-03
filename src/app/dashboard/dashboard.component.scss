@@ -1,0 +1,36 @@
+
+.so-card {
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+  margin-right: 0px;
+  margin-bottom: 25px;
+  border: lightgray 1px solid;
+}
+
+.so-card:last-child {
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+  .so-card {
+    width: 95%;
+  }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+  .so-card {
+    width: 95%;
+    margin-right: 25px;
+  }
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+  .so-card {
+    width: 30%;
+  }
+}
