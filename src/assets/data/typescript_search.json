@@ -1,0 +1,513 @@
+{
+  "items": [
+    {
+      "tags": [
+        "jquery",
+        "unit-testing",
+        "typescript",
+        "browserify",
+        "ava"
+      ],
+      "owner": {
+        "reputation": 406,
+        "user_id": 4230883,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/-R69AgVK0Rck/AAAAAAAAAAI/AAAAAAAAAjY/0u8FjGdkg38/photo.jpg?sz=128",
+        "display_name": "Karima Rafes",
+        "link": "https://stackoverflow.com/users/4230883/karima-rafes"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1501788444,
+      "creation_date": 1501788444,
+      "question_id": 45492984,
+      "link": "https://stackoverflow.com/questions/45492984/how-use-ava-with-jquery-in-typescript",
+      "title": "How use AVA with JQuery in Typescript?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "html",
+        "import",
+        "typescript",
+        "angular"
+      ],
+      "owner": {
+        "reputation": 1966,
+        "user_id": 2578942,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/01be78c58daa73595a9f66977d24e3cf?s=128&d=identicon&r=PG",
+        "display_name": "Vassilis Pits",
+        "link": "https://stackoverflow.com/users/2578942/vassilis-pits"
+      },
+      "is_answered": true,
+      "view_count": 7812,
+      "answer_count": 2,
+      "score": 14,
+      "last_activity_date": 1501788219,
+      "creation_date": 1460730246,
+      "question_id": 36649795,
+      "link": "https://stackoverflow.com/questions/36649795/is-it-possible-to-import-an-html-file-as-a-string-with-typescript",
+      "title": "Is it possible to import an HTML file as a string with TypeScript?"
+    },
+    {
+      "tags": [
+        "express",
+        "typescript"
+      ],
+      "owner": {
+        "reputation": 7975,
+        "user_id": 457172,
+        "user_type": "registered",
+        "accept_rate": 85,
+        "profile_image": "https://www.gravatar.com/avatar/5d299e5e519f4b916dd606dec782955a?s=128&d=identicon&r=PG",
+        "display_name": "Martin",
+        "link": "https://stackoverflow.com/users/457172/martin"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1501787863,
+      "creation_date": 1501759170,
+      "question_id": 45482685,
+      "link": "https://stackoverflow.com/questions/45482685/expressjs-with-typescript-import-formats",
+      "title": "ExpressJS with Typescript, import formats?"
+    },
+    {
+      "tags": [
+        "angular",
+        "typescript",
+        "file-upload"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 8399389,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/e585d45798be845f663032e13ac1c114?s=128&d=identicon&r=PG&f=1",
+        "display_name": "parikshitcs0072",
+        "link": "https://stackoverflow.com/users/8399389/parikshitcs0072"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1501786659,
+      "creation_date": 1501778287,
+      "question_id": 45490051,
+      "link": "https://stackoverflow.com/questions/45490051/agular2-typescript-file-upload",
+      "title": "Agular2 + typescript + file upload"
+    },
+    {
+      "tags": [
+        "angular",
+        "rest",
+        "typescript"
+      ],
+      "owner": {
+        "reputation": 161,
+        "user_id": 2743790,
+        "user_type": "registered",
+        "accept_rate": 6,
+        "profile_image": "https://www.gravatar.com/avatar/aba7fa487335666436a80f1045304e46?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Spdexter",
+        "link": "https://stackoverflow.com/users/2743790/spdexter"
+      },
+      "is_answered": true,
+      "view_count": 46,
+      "answer_count": 2,
+      "score": -1,
+      "last_activity_date": 1501786020,
+      "creation_date": 1501769557,
+      "last_edit_date": 1501769659,
+      "question_id": 45486755,
+      "link": "https://stackoverflow.com/questions/45486755/angular-typescript",
+      "title": "Angular typescript"
+    },
+    {
+      "tags": [
+        "javascript",
+        "typescript",
+        "ecmascript-6",
+        "namespaces",
+        "javascript-namespaces"
+      ],
+      "owner": {
+        "reputation": 25,
+        "user_id": 1662225,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/e8a0c910032888b31069167e1137792b?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Vinod Kolla",
+        "link": "https://stackoverflow.com/users/1662225/vinod-kolla"
+      },
+      "is_answered": false,
+      "view_count": 20,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1501785069,
+      "creation_date": 1501782517,
+      "last_edit_date": 1501785069,
+      "question_id": 45491296,
+      "link": "https://stackoverflow.com/questions/45491296/how-to-write-a-middleware-for-the-functions-in-typescript-namespace",
+      "title": "How to write a middleware for the functions in typescript namespace"
+    },
+    {
+      "tags": [
+        "webpack",
+        "gulp",
+        "ts-loader"
+      ],
+      "owner": {
+        "reputation": 158,
+        "user_id": 639831,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://i.stack.imgur.com/x7icG.jpg?s=128&g=1",
+        "display_name": "Mitchell",
+        "link": "https://stackoverflow.com/users/639831/mitchell"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1501783701,
+      "creation_date": 1501782878,
+      "last_edit_date": 1501783701,
+      "question_id": 45491396,
+      "link": "https://stackoverflow.com/questions/45491396/issue-with-ts-loaderawesome-typescript-loader-as-well-when-running-webpack-3-4",
+      "title": "Issue with ts-loader(awesome-typescript-loader as well) when running webpack 3.4.1 from custom gulp task"
+    },
+    {
+      "tags": [
+        "performance",
+        "typescript",
+        "filesize"
+      ],
+      "owner": {
+        "reputation": 2085,
+        "user_id": 236099,
+        "user_type": "registered",
+        "accept_rate": 61,
+        "profile_image": "https://www.gravatar.com/avatar/0a6f1dd005213cb41f2dda3b4e10546a?s=128&d=identicon&r=PG",
+        "display_name": "ironic",
+        "link": "https://stackoverflow.com/users/236099/ironic"
+      },
+      "is_answered": false,
+      "view_count": 41,
+      "closed_date": 1501783641,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1501783492,
+      "creation_date": 1501748607,
+      "last_edit_date": 1501783492,
+      "question_id": 45478709,
+      "link": "https://stackoverflow.com/questions/45478709/should-typescript-source-code-be-organized-in-smaller-files",
+      "closed_reason": "primarily opinion-based",
+      "title": "Should TypeScript source code be organized in smaller files?"
+    },
+    {
+      "tags": [
+        "typescript"
+      ],
+      "owner": {
+        "reputation": 2360,
+        "user_id": 6041631,
+        "user_type": "registered",
+        "accept_rate": 89,
+        "profile_image": "https://www.gravatar.com/avatar/6bb47ec9c634af460a53b838c0e3e43a?s=128&d=identicon&r=PG",
+        "display_name": "1ven",
+        "link": "https://stackoverflow.com/users/6041631/1ven"
+      },
+      "is_answered": false,
+      "view_count": 41,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1501776191,
+      "creation_date": 1501364993,
+      "last_edit_date": 1501405642,
+      "question_id": 45394383,
+      "link": "https://stackoverflow.com/questions/45394383/how-to-extend-typings-in-typescript",
+      "title": "How to extend typings in typescript?"
+    },
+    {
+      "tags": [
+        "angular",
+        "typescript"
+      ],
+      "owner": {
+        "reputation": 20,
+        "user_id": 7570961,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/9e947d2c54ba84da4c55594cbc2455f9?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Vincent Zheng",
+        "link": "https://stackoverflow.com/users/7570961/vincent-zheng"
+      },
+      "is_answered": true,
+      "view_count": 42,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1501775621,
+      "creation_date": 1501265198,
+      "last_edit_date": 1501775621,
+      "question_id": 45379799,
+      "link": "https://stackoverflow.com/questions/45379799/typescript-getcurrent-location-and-pass-to-backend-to-get-the-result-and-pass-to",
+      "title": "Typescript getCurrent location and pass to backend to get the result and pass to Material Table data source"
+    },
+    {
+      "tags": [
+        "typescript"
+      ],
+      "owner": {
+        "reputation": 42,
+        "user_id": 3647782,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/4f1d3ea4a1d93019fce2505b49959c42?s=128&d=identicon&r=PG&f=1",
+        "display_name": "FabianTe",
+        "link": "https://stackoverflow.com/users/3647782/fabiante"
+      },
+      "is_answered": false,
+      "view_count": 56,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1501774476,
+      "creation_date": 1501587317,
+      "last_edit_date": 1501657637,
+      "question_id": 45436698,
+      "link": "https://stackoverflow.com/questions/45436698/how-to-disable-typescript-warning-for-return-statements",
+      "title": "How to disable Typescript warning for return statements"
+    },
+    {
+      "tags": [
+        "for-loop",
+        "foreach",
+        "typescript"
+      ],
+      "owner": {
+        "reputation": 416,
+        "user_id": 5688490,
+        "user_type": "registered",
+        "accept_rate": 47,
+        "profile_image": "https://www.gravatar.com/avatar/305fad8b68ea76151d915bf5575dd4dc?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Mick",
+        "link": "https://stackoverflow.com/users/5688490/mick"
+      },
+      "is_answered": true,
+      "view_count": 38726,
+      "accepted_answer_id": 36108402,
+      "answer_count": 3,
+      "score": 23,
+      "last_activity_date": 1501774249,
+      "creation_date": 1458427420,
+      "question_id": 36108110,
+      "link": "https://stackoverflow.com/questions/36108110/typescript-for-of-with-index-key",
+      "title": "TypeScript for ... of with index / key?"
+    },
+    {
+      "tags": [
+        "typescript"
+      ],
+      "owner": {
+        "reputation": 16,
+        "user_id": 7675964,
+        "user_type": "registered",
+        "accept_rate": 0,
+        "profile_image": "https://www.gravatar.com/avatar/cd53407f67beaf250b025d9d2565cadf?s=128&d=identicon&r=PG&f=1",
+        "display_name": "gib65",
+        "link": "https://stackoverflow.com/users/7675964/gib65"
+      },
+      "is_answered": false,
+      "view_count": 17,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1501773648,
+      "creation_date": 1501773648,
+      "question_id": 45488441,
+      "link": "https://stackoverflow.com/questions/45488441/node-and-typescript-issues-wont-recognize-jquery",
+      "title": "node and typescript issues, won&#39;t recognize jquery"
+    },
+    {
+      "tags": [
+        "typescript",
+        "vscode"
+      ],
+      "owner": {
+        "reputation": 2146,
+        "user_id": 3491257,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/bc1ef2356fca67274419ebc9d3530058?s=128&d=identicon&r=PG",
+        "display_name": "BotMaster",
+        "link": "https://stackoverflow.com/users/3491257/botmaster"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1501773638,
+      "creation_date": 1501773638,
+      "question_id": 45488437,
+      "link": "https://stackoverflow.com/questions/45488437/typescript-project-linking-typescript-frameworks",
+      "title": "Typescript project linking Typescript frameworks"
+    },
+    {
+      "tags": [
+        "function",
+        "typescript",
+        "types",
+        "syntax"
+      ],
+      "owner": {
+        "reputation": 6364,
+        "user_id": 782358,
+        "user_type": "registered",
+        "accept_rate": 71,
+        "profile_image": "https://i.stack.imgur.com/4DWAz.jpg?s=128&g=1",
+        "display_name": "camden_kid",
+        "link": "https://stackoverflow.com/users/782358/camden-kid"
+      },
+      "is_answered": true,
+      "view_count": 20,
+      "accepted_answer_id": 45485772,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1501772501,
+      "creation_date": 1501766724,
+      "question_id": 45485567,
+      "link": "https://stackoverflow.com/questions/45485567/typescript-function-type-syntax-explanation",
+      "title": "TypeScript function type syntax explanation"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs",
+        "typescript",
+        "typescript-typings",
+        "tslint"
+      ],
+      "owner": {
+        "reputation": 309,
+        "user_id": 604950,
+        "user_type": "registered",
+        "accept_rate": 93,
+        "profile_image": "https://i.stack.imgur.com/T5QbF.jpg?s=128&g=1",
+        "display_name": "Falieson",
+        "link": "https://stackoverflow.com/users/604950/falieson"
+      },
+      "is_answered": true,
+      "view_count": 16,
+      "accepted_answer_id": 45487885,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1501772251,
+      "creation_date": 1501719754,
+      "question_id": 45472927,
+      "link": "https://stackoverflow.com/questions/45472927/input-onchange-w-react-typescript-errors-jsx-no-lambda-no-bind",
+      "title": "Input onChange w/ React &amp; TypeScript errors: jsx no-lambda no-bind"
+    },
+    {
+      "tags": [
+        "angular",
+        "typescript"
+      ],
+      "owner": {
+        "reputation": 509,
+        "user_id": 1791913,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/vdQyW.jpg?s=128&g=1",
+        "display_name": "Faisal",
+        "link": "https://stackoverflow.com/users/1791913/faisal"
+      },
+      "is_answered": true,
+      "view_count": 43,
+      "accepted_answer_id": 45478892,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1501771101,
+      "creation_date": 1501590904,
+      "question_id": 45437974,
+      "link": "https://stackoverflow.com/questions/45437974/typescript-extend-string-interface-runtime-error",
+      "title": "Typescript Extend String interface Runtime Error"
+    },
+    {
+      "tags": [
+        "typescript"
+      ],
+      "owner": {
+        "reputation": 3310,
+        "user_id": 26335,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://i.stack.imgur.com/SQawE.png?s=128&g=1",
+        "display_name": "CodeAndCats",
+        "link": "https://stackoverflow.com/users/26335/codeandcats"
+      },
+      "is_answered": true,
+      "view_count": 46,
+      "answer_count": 1,
+      "score": 2,
+      "last_activity_date": 1501768895,
+      "creation_date": 1497158625,
+      "question_id": 44480644,
+      "link": "https://stackoverflow.com/questions/44480644/typescript-string-union-to-string-array",
+      "title": "TypeScript String Union to String Array"
+    },
+    {
+      "tags": [
+        "node.js",
+        "batch-file",
+        "typescript",
+        "xsd"
+      ],
+      "owner": {
+        "reputation": 31,
+        "user_id": 8377760,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/0c34e2eb66c4314c0dbfbc8f4c1a530b?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Professor Moriarty",
+        "link": "https://stackoverflow.com/users/8377760/professor-moriarty"
+      },
+      "is_answered": true,
+      "view_count": 36,
+      "accepted_answer_id": 45486471,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1501768837,
+      "creation_date": 1501529882,
+      "last_edit_date": 1501613558,
+      "question_id": 45424027,
+      "link": "https://stackoverflow.com/questions/45424027/xsd-to-typescript-using-cxsd-cxsd-not-recognized",
+      "title": ".xsd to TypeScript using cxsd, cxsd not recognized"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs",
+        "typescript"
+      ],
+      "owner": {
+        "reputation": 6602,
+        "user_id": 4467208,
+        "user_type": "registered",
+        "accept_rate": 53,
+        "profile_image": "https://i.stack.imgur.com/M1Sqn.png?s=128&g=1",
+        "display_name": "Murat K.",
+        "link": "https://stackoverflow.com/users/4467208/murat-k"
+      },
+      "is_answered": true,
+      "view_count": 28,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1501768087,
+      "creation_date": 1501759624,
+      "question_id": 45482864,
+      "link": "https://stackoverflow.com/questions/45482864/typescript-is-it-possible-to-have-a-react-component-as-a-type",
+      "title": "Typescript: Is it possible to have a React.Component as a type?"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 283
+}
