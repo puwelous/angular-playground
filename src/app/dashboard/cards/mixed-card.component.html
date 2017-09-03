@@ -1,0 +1,35 @@
+<div class="panel panel-default">
+
+  <div class="panel-heading text-center">
+    Weather data
+  </div>
+
+  <div class="list-group">
+    <li *ngFor="let item of list"
+        [ngClass]="{'list-group-item': true, 'list-group-item-success': (item.title && item.is_answered), 'list-group-item-warning': (item.title && !item.is_answered)}">
+
+      <div [ngSwitch]="item.kind">
+        <app-so-list-item *ngSwitchCase="'stackoverflow'"
+                          [title]="item.title"
+                          [creationDate]="item.creation_date"
+                          [ownerLink]="item.owner.link"
+                          [ownerName]="item.owner.display_name"
+                          [answerCount]="item.answer_count"
+                          [questionLink]="item.link"
+                          [hasAcceptedAnswer]="item.is_answered"
+        >
+        </app-so-list-item>
+        <app-weather-list-item *ngSwitchCase="'local'"
+                          [measurementDate]="item.Datum"
+                          [measurementTime]="item.Zeit"
+                          [temperature]="item['Temp. A.']"
+                          [humidity]="item['Feuchte A.']"
+        >
+        </app-weather-list-item>
+
+      </div>
+
+    </li>
+  </div>
+
+</div>
